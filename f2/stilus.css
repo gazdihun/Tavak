@@ -1,0 +1,48 @@
+table {
+    width: 90%;
+    margin: auto;
+}
+
+
+thead {
+    background-color: rgb(56, 110, 192);
+    color:blue;
+}
+
+tbody {
+    background-color: lightskyblue;
+    color: darkblue;
+ 
+}
+
+th {
+    width: 2cm;
+    height: 2cm;
+    box-shadow: blue 2px 2px;
+    border-radius: 4px;
+    font-style: italic;
+    text-align: center;
+}
+
+td {
+    width: 2cm;
+    height: 2cm;
+    box-shadow: blue 2px 2px;
+    border-radius: 4px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+#piros {
+    color:rgb(187, 3, 3);
+    font-style: bold;
+}
+
+#elso {
+    background-color: rgb(147, 128, 233)
+}
+
+#utolso {
+background-color:grey;
+}
